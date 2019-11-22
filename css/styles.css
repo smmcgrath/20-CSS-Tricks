@@ -95,10 +95,12 @@ header h1 {
   left: -80px;
   width: 500px;
   top: 260px;
+  filter: blur(5px);
+  height: auto;
 }
 
 .plant-background.bottom {
-  top: 530px;
+  top: 380px;
   transform: rotate(-170deg);
 }
 
