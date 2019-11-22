@@ -72,7 +72,9 @@ header h1 {
   top: 150px;
   overflow: hidden;
   width: 300px;
+  height: auto;
   transform: rotate(-15deg);
+  filter: drop-shadow(10px 40px 30px rgb(0, 0, 0, 0.25));
 }
 
 
@@ -84,6 +86,7 @@ header h1 {
   z-index: 0;
   animation: hand 3s infinite;
   transform: translateY(50px);
+  filter: drop-shadow(10px 40px 30px rgb(0, 0, 0, 0.45));
 }
 
 .plant-background {
