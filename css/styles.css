@@ -235,6 +235,9 @@ footer h3 {
   text-align: center;
   padding-bottom: 30px;
   text-transform: uppercase;
+  -webkit-text-fill-color:#f2cce4;
+  -webkit-text-stroke:3px #000;
+  /* text-shadow: -10px -10px 0 #0dc833; */
   animation: heading 2s 1;
   animation-fill-mode: forwards;
   height: 380px;
