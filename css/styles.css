@@ -142,6 +142,15 @@ header h1 {
   text-align: left;
 }
 
+.intro:first-letter {
+  float: left;
+  text-transform: uppercase;
+  font-family: 'Karla', sans-serif;
+  font-size: 100px;
+  line-height: 0.5;
+  margin: 15px 20px 10px 0;
+}
+
 .centered {
   margin: 0 auto;
   max-width: 600px;
