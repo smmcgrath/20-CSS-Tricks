@@ -135,6 +135,11 @@ header h1 {
 
 
 /*truncate text with ellipsis*/
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 
 .intro {
   font-weight: 400;
