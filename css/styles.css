@@ -398,9 +398,9 @@ ol.numbered-list>li:before {}
   max-width: 300px;
 }
 
-
-.chart-legend + p {
-
+/* general sibling combinators */
+.chart-legend ~ p {
+  line-height: 200%;
 }
 
 span.twitter, span.fb, span.ig {
