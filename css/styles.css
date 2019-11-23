@@ -392,7 +392,12 @@ ol.numbered-list>li:before {}
   align-items: flex-start;
 }
 
-/*sibling combinator*/
+/*adjacent sibling combinator*/
+.chart-legend + p {
+  margin-top: 20px;
+  max-width: 300px;
+}
+
 
 .chart-legend + p {
 
