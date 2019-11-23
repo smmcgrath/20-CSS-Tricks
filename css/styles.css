@@ -1,3 +1,11 @@
+::selection {
+  background-color: #ff65aa;
+}
+
+::-moz-selection {
+  background-color: salmon;
+}
+
 body {
   margin: 0;
   font-family: 'Cormorant Garamond', serif;
