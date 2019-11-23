@@ -426,6 +426,7 @@ span.ig {
 
 .outro {
   width: 50ch;
+  column-count: 2;
 }
 
 /*calc, vh and writing mode*/
