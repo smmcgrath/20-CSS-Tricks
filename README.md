@@ -2,7 +2,7 @@
 
 Experimenting with lesser used but useful CSS props.
 
-Images and tutorial curtesey of @aganaplocha
+Images and tutorial courtesy of @aganaplocha
 
 ## Running
 
